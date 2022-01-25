@@ -1,0 +1,1 @@
+This is a simple newsletter signup application using nodeJS and expressJS wherein the user types his name and email and submits the form to subscribe to my newsletter. The deployment is done on heroku.
